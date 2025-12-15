@@ -1,0 +1,2 @@
+
+Ola is one of the leading ride-hailing companies in the india,connecting millions of passenders with drivers across various cities.one of the major challanges ola facing is retaining its drivers .in this project data from 2019 and 2020 to predict whether a driver will leave ola or continue.by building machine learning models and analyzing driver behaviour,we aim to help ola reduce driver attrition and improve retention strategies
